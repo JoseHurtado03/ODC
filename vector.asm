@@ -30,8 +30,3 @@ lazo3:	lw   $a0,vector($t0)
 	#Cerrar programa
 	li   $v0,10
 	syscall
-	
-	
-	
-	
-	
