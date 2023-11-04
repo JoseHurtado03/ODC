@@ -71,4 +71,3 @@ finB:
 	#Fin del programa
 	li $v0 10
 	syscall
-	
