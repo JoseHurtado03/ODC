@@ -29,5 +29,3 @@ loop:	bltz $t1 fin
 	j loop
 fin:	li $v0 10
 	syscall
-	 
-	
